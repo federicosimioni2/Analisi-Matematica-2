@@ -1,2 +1,2 @@
 # Tutorato Analisi Matematica 2 per Fisica e Astronomia
-In questa cartella sono presenti gli esercizi (e le relative soluzioni) affrontati durante i tutorati di Analisi Matematica 2 per Fisici e Astronomi. Nel file "Informazioni Tutorato Analisi Matematica 2.pdf" sono presenti le informazioni organizzative riportate al primo incontro
+In questa cartella sono presenti gli esercizi (e le relative soluzioni) affrontati durante i tutorati di Analisi Matematica 2 per Fisica e Astronomia. Nel file "Informazioni Tutorato Analisi Matematica 2.pdf" sono presenti le informazioni organizzative riportate al primo incontro, mentre nella cartella "Esercizi" sono riportate le soluzioni dei problemi proposti.
